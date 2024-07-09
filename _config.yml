@@ -12,8 +12,8 @@ title                    : "Yanjun Liu"
 title_separator          : "-"
 name                     : &name "Yanjun Liu"
 description              : &description "personal description"
-url                      : https://yanjunliu-regina.github.io/yanjunliu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://yanjunliu-regina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/yanjunliu.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "yanjunliu-regina/yanjunliu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
