@@ -14,8 +14,9 @@ Jin, Qinian & Liu, Yanjun. (2024). Convergence analysis of a stochastic heavy-ba
 [preprint](https://arxiv.org/abs/2406.16814)
 
 <h2 id="teaching">Teaching</h2>
-Australian National University - Demonstrator
-1. (S1 2023) [MATH2320](https://programsandcourses.anu.edu.au/2023/course/MATH2320) Advanced Analysis 1: Metric Spaces and Applications
-2. (S2 2022) [COMP3670](https://programsandcourses.anu.edu.au/2022/course/COMP3670) Introduction to Machine Learning
-3. (S2 2022) [COMP2400](https://programsandcourses.anu.edu.au/2022/course/COMP2400) Relational Databases
-4. (S1 2021) Joint ANU-Shandong University Course MA1: Mathematical Abstraction 1
+### Australian National University - Demonstrator
+
+* (S1 2023) [MATH2320](https://programsandcourses.anu.edu.au/2023/course/MATH2320) Advanced Analysis 1: Metric Spaces and Applications
+* (S2 2022) [COMP3670](https://programsandcourses.anu.edu.au/2022/course/COMP3670) Introduction to Machine Learning
+* (S2 2022) [COMP2400](https://programsandcourses.anu.edu.au/2022/course/COMP2400) Relational Databases
+* (S1 2021) Joint ANU-Shandong University Course MA1: Mathematical Abstraction 1
