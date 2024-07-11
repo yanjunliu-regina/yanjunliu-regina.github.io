@@ -26,6 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Operations research graduate student at Princeton University"
   location         : "Princeton, NJ"
+  follow_true      : false
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "yanjun.liu@princeton.edu" 
