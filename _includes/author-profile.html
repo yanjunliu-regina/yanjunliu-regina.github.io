@@ -21,7 +21,9 @@
   </div>
 
   <div class="author__urls-wrapper">
+    {% if author.follow_true %}
     <button class="btn btn--inverse">Follow</button>
+    {% endif %}
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
