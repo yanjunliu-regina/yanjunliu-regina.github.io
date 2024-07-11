@@ -9,12 +9,12 @@ redirect_from:
 I am a first-year PhD student at Department of Operations Research and Financial Engineering, Princeton University. My research interests broadly lie in mathematical optimization and its related applications. I am interested in developing optimization algorithms that are robust in both theory and practical implementation.
 Prior to Princeton, I obtained my undergraduate degree in Mathematics from the Australian National University, where I was very fortunated to be advised by Prof. [Qinian Jin](https://researchers.anu.edu.au/researchers/jin-q) and work with Prof. [Lindon Roberts](https://lindonroberts.github.io/).
 
-Publications
+<h2 id="publications">Publications</h2>
 ======
 Jin, Qinian & Liu, Yanjun. (2024). Convergence analysis of a stochastic heavy-ball method for linear ill-posed problems. 
 [preprint](https://arxiv.org/abs/2406.16814)
 
-Teaching
+<h2 id="teaching">Teaching</h2>
 ======
 Australian National University - Demonstrator
 1. (S1 2023) [MATH2320](https://programsandcourses.anu.edu.au/2023/course/MATH2320) Advanced Analysis 1: Metric Spaces and Applications
