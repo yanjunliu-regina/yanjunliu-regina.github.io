@@ -10,7 +10,7 @@ I am a first-year PhD student at Department of Operations Research and Financial
 Prior to Princeton, I obtained my undergraduate degree in Mathematics from the Australian National University, where I was very fortunated to be advised by Prof. [Qinian Jin](https://researchers.anu.edu.au/researchers/jin-q) and work with Prof. [Lindon Roberts](https://lindonroberts.github.io/).
 
 <h2 id="publications">Publications</h2>
-Yanjun Liu, Qinian Jin (2024). Convergence Analysis of a Stochastic Heavy-ball Method for Linear ill-posed Problems. 
+Qinian Jin, Yanjun Liu (2024). Convergence Analysis of a Stochastic Heavy-ball Method for Linear ill-posed Problems. 
 [preprint](https://arxiv.org/abs/2406.16814)
 
 Yanjun Liu, Kevin H. Lam, Lindon Roberts (2024). Black-box Optimization Algorithms for Regularized Least-squares Problems.
