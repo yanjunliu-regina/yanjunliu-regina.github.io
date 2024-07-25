@@ -9,6 +9,12 @@ redirect_from:
 I am a first-year PhD student at Department of Operations Research and Financial Engineering, Princeton University. My research interests broadly lie in mathematical optimization and its related applications. I am interested in developing optimization algorithms that are robust in both theory and practical implementation.
 Prior to Princeton, I obtained my undergraduate degree in Mathematics from the Australian National University, where I was very fortunated to be advised by Prof. [Qinian Jin](https://researchers.anu.edu.au/researchers/jin-q) and work with Prof. [Lindon Roberts](https://lindonroberts.github.io/).
 
+<h2 id="education">Education</h2>
+
+PhD in Operations Research and Financial Engineering, Princeton Unviersity, August 2023 - July 2027 (expected)
+
+Bachelor of Mathematical Sciences (Honours), Australian National University, February 2020 – July 2023
+
 <h2 id="publications">Publications</h2>
 
 Qinian Jin, Yanjun Liu (2024). Convergence Analysis of a Stochastic Heavy-ball Method for Linear ill-posed Problems. 
@@ -32,6 +38,6 @@ Yanjun Liu, Kevin H. Lam, Lindon Roberts (2024). Black-box Optimization Algorith
 <h2 id="awards">Awards</h2>
 
 * [SEAS Travel Grant Award](https://engineering.princeton.edu/funding/travel-funds#:~:text=The%20School%20of%20Engineering%20and,or%20traveling%20for%20a%20research%2D) for attending [ISMP 2024](https://ismp2024.gerad.ca/), Princeton University, 2024
-* [Gordon Wu Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship), Princeton University, 2023-2027
-* [Hanna Neumann Prize for Mathematics IV (Honors)](https://www.anu.edu.au/students/program-administration/prizes/hanna-neumann-prize-for-mathematics-iv-honours#:~:text=Overview,for%20Mathematics%20IV(H)), Australian National University, 2023
+* [Gordon Wu Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship), Princeton University, 2023 - 2027
+* [Hanna Neumann Prize for Mathematics IV (Honours)](https://www.anu.edu.au/students/program-administration/prizes/hanna-neumann-prize-for-mathematics-iv-honours#:~:text=Overview,for%20Mathematics%20IV(H)), Australian National University, 2023
 * [Alan McIntosh Prize for Third Year Mathematics](https://www.anu.edu.au/students/program-administration/prizes/alan-mcintosh-prize-for-third-year-mathematics), Australian National University, 2021
