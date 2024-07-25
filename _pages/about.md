@@ -19,7 +19,7 @@ Yanjun Liu, Kevin H. Lam, Lindon Roberts (2024). Black-box Optimization Algorith
 
 <h2 id="talks"> Talks</h2>
 
-25th International Symposium on Mathematical Programming at Montréal, Canada. July 2024 ([abstract](https://ismp2024.gerad.ca/schedule/FA/326), [slides](https://yanjunliu-regina.github.io/talks/yanjun_liu_ismp_2024.pdf))
+25th International Symposium on Mathematical Programming at Montréal, Canada. July 2024 ([abstract](https://ismp2024.gerad.ca/schedule/FA/326), [slides](https://yanjunliu-regina.github.io/files/Yanjun_Liu_ISMP_2024.pdf))
 
 <h2 id="teaching">Teaching</h2>
 ### Australian National University - Demonstrator
