@@ -17,6 +17,10 @@ Qinian Jin, Yanjun Liu (2024). Convergence Analysis of a Stochastic Heavy-ball M
 Yanjun Liu, Kevin H. Lam, Lindon Roberts (2024). Black-box Optimization Algorithms for Regularized Least-squares Problems.
 [preprint](https://arxiv.org/abs/2407.14915) [software](https://github.com/yanjunliu-regina/dfols/tree/yanjun-dfols)
 
+<h2 id="talks"> Talks</h2>
+
+25th International Symposium on Mathematical Programming at Montréal, Canada. July 2024 ([abstract](https://ismp2024.gerad.ca/schedule/FA/326) | [slides](https://github.com/yanjunliu-regina/yanjunliu-regina.github.io/blob/master/files/ISMP2024.pdf))
+
 <h2 id="teaching">Teaching</h2>
 ### Australian National University - Demonstrator
 
@@ -26,6 +30,8 @@ Yanjun Liu, Kevin H. Lam, Lindon Roberts (2024). Black-box Optimization Algorith
 * (S1 2021) Joint ANU-Shandong University Course MA1: Mathematical Abstraction 1
 
 <h2 id="awards">Awards</h2>
+
+* [SEAS Travel Grant Award](https://engineering.princeton.edu/funding/travel-funds#:~:text=The%20School%20of%20Engineering%20and,or%20traveling%20for%20a%20research%2D) for attending [ISMP 2024](https://ismp2024.gerad.ca/), Princeton University, 2024
 * [Gordon Wu Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship), Princeton University, 2023-2027
 * [Hanna Neumann Prize for Mathematics IV (Honors)](https://www.anu.edu.au/students/program-administration/prizes/hanna-neumann-prize-for-mathematics-iv-honours#:~:text=Overview,for%20Mathematics%20IV(H)), Australian National University, 2023
 * [Alan McIntosh Prize for Third Year Mathematics](https://www.anu.edu.au/students/program-administration/prizes/alan-mcintosh-prize-for-third-year-mathematics), Australian National University, 2021
