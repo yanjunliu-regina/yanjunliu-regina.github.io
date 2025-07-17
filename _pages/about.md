@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student at Department of Operations Research and Financial Engineering (ORFE) department at Princeton University, co-advised Prof. [Amirali Ahmaid](https://aaa.princeton.edu/) and Prof. [Bartolomeo Stellato](https://stellato.io/). I am broadly exploring my research interest in mathematical optimization, including algorithm design and optimization under uncertainty.
-Prior to Princeton, I obtained my undergraduate degree in Mathematics from the Australian National University, where I was very fortunated to be advised by Prof. [Qinian Jin](https://researchers.anu.edu.au/researchers/jin-q) and work with Prof. [Lindon Roberts](https://lindonroberts.github.io/).
+I am a second-year PhD student in the Operations Research and Financial Engineering (ORFE) department at Princeton University, co-advised Prof. [Amirali Ahmadi](https://aaa.princeton.edu/) and Prof. [Bartolomeo Stellato](https://stellato.io/). I am broadly exploring my research interests in mathematical optimization, including algorithm design and optimization under uncertainty.
+Prior to Princeton, I obtained my undergraduate degree in Mathematics from the Australian National University, where I was very fortunated to be advised by Prof. [Qinian Jin](https://researchers.anu.edu.au/researchers/jin-q) and worked with Prof. [Lindon Roberts](https://lindonroberts.github.io/).
 
 <h2 id="education">Education</h2>
 
