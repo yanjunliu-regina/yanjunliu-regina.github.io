@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student at Department of Operations Research and Financial Engineering, Princeton University. My research interests broadly lie in mathematical optimization and its related applications. I am interested in developing optimization algorithms that are robust in both theory and practical implementation.
+I am a second-year PhD student at Department of Operations Research and Financial Engineering (ORFE) department at Princeton University, co-advised Prof. [Amirali Ahmaid](https://aaa.princeton.edu/) and Prof. [Bartolomeo Stellato](https://stellato.io/). I am broadly exploring my research interest in mathematical optimization, including algorithm design and optimization under uncertainty.
 Prior to Princeton, I obtained my undergraduate degree in Mathematics from the Australian National University, where I was very fortunated to be advised by Prof. [Qinian Jin](https://researchers.anu.edu.au/researchers/jin-q) and work with Prof. [Lindon Roberts](https://lindonroberts.github.io/).
 
 <h2 id="education">Education</h2>
@@ -17,10 +17,13 @@ Bachelor of Mathematical Sciences (Honours), Australian National University, Feb
 
 <h2 id="publications">Publications</h2>
 
-Qinian Jin, Yanjun Liu (2024). Convergence Analysis of a Stochastic Heavy-ball Method for Linear ill-posed Problems. 
-[preprint](https://arxiv.org/abs/2406.16814)
+** Convergence Analysis of a Stochastic Heavy-ball Method for Linear ill-posed Problems. **  
+Qinian Jin, Yanjun Liu (2025).  
+Journal of Computational and Applied Mathematics  
+[Paper](https://www.sciencedirect.com/science/article/pii/S037704272500216X)
 
-Yanjun Liu, Kevin H. Lam, Lindon Roberts (2024). Black-box Optimization Algorithms for Regularized Least-squares Problems.
+** Black-box Optimization Algorithms for Regularized Least-squares Problems. **
+Yanjun Liu, Kevin H. Lam, Lindon Roberts (2024).
 [preprint](https://arxiv.org/abs/2407.14915) [software](https://github.com/yanjunliu-regina/dfols/tree/yanjun-dfols)
 
 <h2 id="talks"> Talks</h2>
@@ -28,6 +31,12 @@ Yanjun Liu, Kevin H. Lam, Lindon Roberts (2024). Black-box Optimization Algorith
 25th International Symposium on Mathematical Programming at Montréal, Canada. July 2024 ([abstract](https://ismp2024.gerad.ca/schedule/FA/326), [slides](https://yanjunliu-regina.github.io/files/Yanjun_Liu_ISMP_2024.pdf))
 
 <h2 id="teaching">Teaching</h2>
+
+### Princeton University - Teaching Assistent
+
+* (Fall 2024) [ORF522](https://stellato.io/teaching/orf522/) Linear and Nonlinear Optimization
+* (Spring 2025) [ORF307](https://stellato.io/teaching/orf307/) Optimization
+
 ### Australian National University - Demonstrator
 
 * (S1 2023) [MATH2320](https://programsandcourses.anu.edu.au/2023/course/MATH2320) Advanced Analysis 1: Metric Spaces and Applications
