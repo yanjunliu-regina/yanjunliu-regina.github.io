@@ -24,11 +24,12 @@ Journal of Computational and Applied Mathematics
 
 - **Black-box Optimization Algorithms for Regularized Least-squares Problems**  
 Yanjun Liu, Kevin H. Lam, Lindon Roberts (2024)  
-[Preprint](https://arxiv.org/abs/2407.14915) [software](https://github.com/yanjunliu-regina/dfols/tree/yanjun-dfols)
+[Preprint](https://arxiv.org/abs/2407.14915) [Software](https://github.com/yanjunliu-regina/dfols/tree/yanjun-dfols)
 
 <h2 id="talks"> Talks</h2>
 
-25th International Symposium on Mathematical Programming at Montréal, Canada. July 2024 ([abstract](https://ismp2024.gerad.ca/schedule/FA/326), [slides](https://yanjunliu-regina.github.io/files/Yanjun_Liu_ISMP_2024.pdf))
+25th International Symposium on Mathematical Programming at Montréal, Canada. July 2024  
+([Abstract](https://ismp2024.gerad.ca/schedule/FA/326), [Slides](https://yanjunliu-regina.github.io/files/Yanjun_Liu_ISMP_2024.pdf))
 
 <h2 id="teaching">Teaching</h2>
 
