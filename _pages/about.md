@@ -22,9 +22,9 @@ Qinian Jin, Yanjun Liu (2025)
 Journal of Computational and Applied Mathematics  
 [Paper](https://www.sciencedirect.com/science/article/pii/S037704272500216X)
 
-- **Black-box Optimization Algorithms for Regularized Least-squares Problems**
+- **Black-box Optimization Algorithms for Regularized Least-squares Problems**  
 Yanjun Liu, Kevin H. Lam, Lindon Roberts (2024)  
-[preprint](https://arxiv.org/abs/2407.14915) [software](https://github.com/yanjunliu-regina/dfols/tree/yanjun-dfols)
+[Preprint](https://arxiv.org/abs/2407.14915) [software](https://github.com/yanjunliu-regina/dfols/tree/yanjun-dfols)
 
 <h2 id="talks"> Talks</h2>
 
