@@ -33,7 +33,7 @@ Yanjun Liu, Kevin H. Lam, Lindon Roberts (2024)
 
 <h2 id="teaching">Teaching</h2>
 
-### Princeton University - Teaching Assistent
+### Princeton University - Teaching Assistant
 
 * (Fall 2024) [ORF522](https://stellato.io/teaching/orf522/) Linear and Nonlinear Optimization
 * (Spring 2025) [ORF307](https://stellato.io/teaching/orf307/) Optimization
