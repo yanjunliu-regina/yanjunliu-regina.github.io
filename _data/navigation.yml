@@ -11,6 +11,9 @@ main:
 
   - title: "Awards"
     url: /#awards
+
+  - title: "CV"
+    url: /files/Yanjun_Liu_CV.pdf
     
 #  - title: "Portfolio"
 #    url: /portfolio/

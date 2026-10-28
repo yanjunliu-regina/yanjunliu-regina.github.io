@@ -11,7 +11,7 @@ Prior to Princeton, I obtained my undergraduate degree in Mathematics from the A
 
 <h2 id="education">Education</h2>
 
-PhD in Operations Research and Financial Engineering, Princeton Unviersity, August 2023 - July 2027 (expected)
+PhD in Operations Research and Financial Engineering, Princeton University, August 2023 - May 2028 (expected)
 
 Bachelor of Mathematical Sciences (Honours), Australian National University, February 2020 – July 2023
 
